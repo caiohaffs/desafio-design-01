@@ -1,0 +1,6 @@
+
+Não deve ser feito nada para melhorar o design. Ele esta bem limpo e objetivo na minha opinião.
+
+1 - Usei pro proprio CSS para deixar o menu fixo, assim deixando mais rapido;
+2 - Também fiz o site responsivo.
+
